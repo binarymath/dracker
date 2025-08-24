@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐉 Dracker - Plataforma Educacional do Dragãozinho
 
 Bem-vindo à plataforma educacional do Dracker! Um dragãozinho amigável que ajuda crianças a aprender matemática e educação financeira de forma divertida e inclusiva.
@@ -107,3 +108,6 @@ Desenvolvido com ❤️ para tornar o aprendizado de matemática e educação fi
 ---
 
 **🐉 Dracker - Tornando o aprendizado mágico!**
+=======
+Site do Dracker 
+>>>>>>> 86d6eb57481874afded73c85d6c25a9d6893f514
